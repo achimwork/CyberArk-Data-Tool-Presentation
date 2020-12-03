@@ -1,0 +1,10 @@
+**/node_modules/
+.env
+**/tmp/
+**/cache/
+**/log/
+*.log*
+dist
+data/planned/*
+data/automation/*
+Powershell
